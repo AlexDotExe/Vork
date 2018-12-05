@@ -1,0 +1,50 @@
+get/take (item)		     //Removes item from current room; places it in your inventory
+get/take all		     //takes all takeable objects in room
+throw (item) at (location)   //Throws the item at something
+open (container)	     //Opens the container, whether it is in the room or your inventory
+open (exit)		     //Opens the exit for travel
+read (item)		     //Reads what is written on readable item
+drop (item)		     //Removes item from inventory; places it in current room
+put (item) in (container)    //Removes item from inventory; places it in container
+turn (control) with (item)   //Attempts to operate the control with the item
+turn on (item)		     //Turns on the item
+turn off (item)		     //Turns the item off
+move (object)		     //Moves a large object that cannot be picked up
+attack (creature) with (item)//Attacks creature with the item
+examine (object)	     //Examines, or looks, at an object or item or location
+inventory	i	     //Shows contents of Inventory
+eat			     //Eats item (specifically food)
+shout			     //Aaaarrrrgggghhhh!
+close [Door]	             //Closes door
+tie (item) to (object)	     //ties item to object
+pick (item)		     //take/get item
+kill self with (weapon)	     //Humorously commits suicide
+break (item) with (item)     //Breaks item
+kill (creature) with (item)  //Attacks creature with the item
+pray		             //when you are in temples...
+drink 		             //drink an item
+smell		             //smell an item
+cut (object/item) with (weapon)//Comment: Strange concept, cutting the (object/item) If (object/item)=self then you commit suicide
+bar			     //bar bar...
+listen (target)		     //Listens to a creature or item.
+diagnose	             // tells you your health
+time			     //tells you play time	
+
+/////Wand Comands (only if the wand is in your possesion)\\\\\\
+
+fall 			     //makes the target fall when they move
+float 			     //makes an object float
+freeze			     //makes target unable to move
+fence 			     //makes target unable to leave the room
+fierce 			     //makes the target angry
+ferment                      //makes target drunk
+fear 			     //makes target afraid and run from the room
+feeble                       //makes target weak and unable to carry much or fight
+fumble 			     //reduces target's carrying capacity and ocasionaly makes them drop items
+filch 			     //steals from the target
+fantasize 		     //makes target hallucinate
+fireproof 		     //makes the target fireproof
+fry 			     //destroys target
+fudge 			     //"a strong odor of chocolate permeates the room"
+fluoresce 		     //makes an object glow with light
+free 			     //frees the target; the genie uses this if you give him the chance

@@ -1,0 +1,32 @@
+get/take 
+get/take all		     
+throw at 
+open 
+open		     
+read 		    
+drop 		     
+put 
+turn 
+turn on 
+turn off 
+move 
+attack 
+examine
+inventory		     
+eat			     
+shout			     
+close	             
+tie 	     
+pick 	     
+kill self with    
+break     
+kill  
+pray		             
+drink 		             
+smell		             
+cut 
+bar			    
+listen      
+diagnose	             
+time			     
+
